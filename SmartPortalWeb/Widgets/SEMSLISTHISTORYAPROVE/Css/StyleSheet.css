@@ -1,0 +1,56 @@
+﻿﻿body {
+}
+
+input#ctl00_ctl19_btnRollback {
+    color: #fff;
+    background-color: #e39810;
+    border-color: #e39810;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+
+input#ctl00_ctl19_btnReject {
+    color: #fff;
+    background-color: #e5362d;
+    border-color: #e5362d;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+
+input#ctl00_ctl20_btnRollBack {
+    color: #fff;
+    background-color: #e39810;
+    border-color: #e39810;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+
+input#ctl00_ctl19_btnDoManual {
+    color: #fff;
+    background-color: #e39810;
+    border-color: #e39810;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+
+input#ctl00_ctl20_btnReject {
+    color: #fff;
+    background-color: #e5362d;
+    border-color: #e5362d;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+
+input#ctl00_ctl20_btnManual {
+    color: #fff;
+    background-color: #237e22;
+    border-color: #237e22;
+    padding: 2px 15px;
+    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
