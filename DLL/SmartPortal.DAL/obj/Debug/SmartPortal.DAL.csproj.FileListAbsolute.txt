@@ -96,17 +96,35 @@ E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.Co
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\BouncyCastle.Crypto.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.xml
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.AssemblyReference.cache
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.AssemblyReference.cache
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\bin\Debug\itextsharp.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.AssemblyReference.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb

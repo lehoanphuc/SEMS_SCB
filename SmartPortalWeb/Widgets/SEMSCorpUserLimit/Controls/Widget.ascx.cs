@@ -296,7 +296,7 @@ public partial class Widgets_SEMSCorpUserLimit_Controls_Widget : WidgetBase
 
                             if (statusTrans.ContainsValue("0"))
                             {
-                                lblError.Text = Resources.labels.oneoftransactionexist;
+                                lblError.Text = "One of Transactions type has existed. Please choose option below !";
                                 btnOverwrite.Visible = true;
                                 btnAddMissTrans.Visible = true;
                                 btnCancel.Visible = true;
@@ -730,7 +730,7 @@ public partial class Widgets_SEMSCorpUserLimit_Controls_Widget : WidgetBase
             PrintData();
             pnAdd.Enabled = false;
             gvUserLimit.Columns[7].Visible = false;
-            lblError.Text = Resources.labels.overwritetransaction;
+            lblError.Text = "Overwrite transaction type successfully";
             btnOverwrite.Visible = false;
             btnAddMissTrans.Visible = false;
             btnCancel.Visible = false;
@@ -764,7 +764,7 @@ public partial class Widgets_SEMSCorpUserLimit_Controls_Widget : WidgetBase
             PrintData();
             pnAdd.Enabled = false;
             gvUserLimit.Columns[7].Visible = false;
-            lblError.Text = Resources.labels.addmisstransaction;
+            lblError.Text = "Added Transaction type missing successfully";
             btnOverwrite.Visible = false;
             btnAddMissTrans.Visible = false;
             btnCancel.Visible = false;

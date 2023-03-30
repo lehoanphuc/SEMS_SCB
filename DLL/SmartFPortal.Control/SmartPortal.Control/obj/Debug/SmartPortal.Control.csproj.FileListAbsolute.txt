@@ -117,20 +117,41 @@ E:\SCB\main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CopyComplete
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.dll
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\BouncyCastle.Crypto.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.xml
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.AssemblyReference.cache
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CoreCompileInputs.cache
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CopyComplete
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.AssemblyReference.cache
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CoreCompileInputs.cache
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CopyComplete
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Control.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\itextsharp.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.AssemblyReference.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CoreCompileInputs.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.csproj.CopyComplete
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartFPortal.Control\SmartPortal.Control\obj\Debug\SmartPortal.Control.pdb

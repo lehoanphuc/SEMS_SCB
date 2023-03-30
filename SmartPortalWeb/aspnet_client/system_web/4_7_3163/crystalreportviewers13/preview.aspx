@@ -1,4 +1,4 @@
-<%@ Page Language="vb" validateRequest="false" %>
+<%--<%@ Page Language="vb" validateRequest="false" %>
 
 <%@ Register TagPrefix="cr" Namespace="CrystalDecisions.Web" Assembly="CrystalDecisions.Web, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" %>
 <%@ Register TagPrefix="ctrls" Namespace="CrystalDecisions.ReportAppServer.Controllers" Assembly="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" %>
@@ -137,4 +137,4 @@
                 </CR:CrystalReportViewer>
     </form>
 </body>
-</HTML>
+</HTML>--%>

@@ -141,15 +141,6 @@
   <data name="accessdenied2" xml:space="preserve">
     <value>Truy cập bị từ chối</value>
   </data>
-  <data name="overwritetransaction" xml:space="preserve">
-    <value>Ghi đè giao dịch thành công</value>
-  </data>
-  <data name="oneoftransactionexist" xml:space="preserve">
-    <value>Một trong số các loại giao dịch đã tồn tại. Vui lòng lựa chọn</value>
-  </data>
-  <data name="addmisstransaction" xml:space="preserve">
-    <value>Thêm giao dịch bị thiếu thành công</value>
-  </data>
   <data name="accnotactive" xml:space="preserve">
     <value>Tài khoản không hoạt động</value>
   </data>

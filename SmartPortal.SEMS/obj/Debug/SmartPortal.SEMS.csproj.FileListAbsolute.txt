@@ -208,33 +208,67 @@ E:\SCB\main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices
 E:\SCB\main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll.config
 E:\SCB\main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.xml
 E:\SCB\main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CopyComplete
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\BouncyCastle.Crypto.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\ITransaction.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.pdb
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll.config
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.xml
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.AssemblyReference.cache
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CoreCompileInputs.cache
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CopyComplete
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.dll
-F:\Main\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\ITransaction.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.xml
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.AssemblyReference.cache
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CoreCompileInputs.cache
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CopyComplete
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.dll
+F:\SCB\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.SEMS.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\ITransaction.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.DAL.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Model.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Constant.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.Exception.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.IB.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\bin\Debug\itextsharp.xml
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.AssemblyReference.cache
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CoreCompileInputs.cache
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.csproj.CopyComplete
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.dll
+F:\SCB - Copy\SCB-DEV\SEMS\SmartPortal.SEMS\obj\Debug\SmartPortal.SEMS.pdb

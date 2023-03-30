@@ -73,13 +73,28 @@ E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\Smart
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CopyComplete
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
 E:\SCB\main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\BouncyCastle.Crypto.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.xml
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CopyComplete
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
-F:\Main\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.xml
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CopyComplete
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+F:\SCB\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\BouncyCastle.Crypto.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\DevExpress.Data.v21.2.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\DevExpress.Data.v21.2.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\itextsharp.xml
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.AssemblyReference.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CopyComplete
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+F:\SCB - Copy\SCB-DEV\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb

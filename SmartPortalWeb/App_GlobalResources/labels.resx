@@ -141,15 +141,6 @@
   <data name="Accountnotsame1" xml:space="preserve">
     <value>Sender Account not Same Receiver Account</value>
   </data>
-  <data name="oneoftransactionexist" xml:space="preserve">
-    <value>One of Transactions type has existed. Please choose option below !</value>
-  </data>
-    <data name="addmisstransaction" xml:space="preserve">
-    <value>Added Transaction type missing successfully</value>
-  </data>
-  <data name="overwritetransaction" xml:space="preserve">
-    <value>Overwrite transaction type successfully</value>
-  </data>
   <data name="accountnumber" xml:space="preserve">
     <value>Account Number</value>
   </data>

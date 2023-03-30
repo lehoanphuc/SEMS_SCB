@@ -92,32 +92,32 @@ public partial class Controls_Formula_Formula : System.Web.UI.UserControl
         comboBoxProperties.ValueType = typeof(string);
 
     }
-    static List<ClauseType> GlobalAllowedOperations
-    {
-        get
-        {
-            return new List<ClauseType>{
-                    ClauseType.Equals,
-                    ClauseType.DoesNotEqual,
-                    ClauseType.Greater,
-                    ClauseType.GreaterOrEqual,
-                    ClauseType.Less,
-                    ClauseType.LessOrEqual,
-                    ClauseType.Between,
-                    ClauseType.NotBetween,
-                    ClauseType.Contains,
-                    ClauseType.DoesNotContain,
-                    ClauseType.BeginsWith,
-                    ClauseType.EndsWith,
-                    //ClauseType.Like,
-                    //ClauseType.NotLike,
-                    //ClauseType.IsNull,
-                    //ClauseType.IsNotNull,
-                    //ClauseType.AnyOf,
-                    //ClauseType.NoneOf
-                };
-        }
-    }
+    //static List<ClauseType> GlobalAllowedOperations
+    //{
+    //    get
+    //    {
+    //        return new List<ClauseType>{
+    //                ClauseType.Equals,
+    //                ClauseType.DoesNotEqual,
+    //                ClauseType.Greater,
+    //                ClauseType.GreaterOrEqual,
+    //                ClauseType.Less,
+    //                ClauseType.LessOrEqual,
+    //                ClauseType.Between,
+    //                ClauseType.NotBetween,
+    //                ClauseType.Contains,
+    //                ClauseType.DoesNotContain,
+    //                ClauseType.BeginsWith,
+    //                ClauseType.EndsWith,
+    //                //ClauseType.Like,
+    //                //ClauseType.NotLike,
+    //                //ClauseType.IsNull,
+    //                //ClauseType.IsNotNull,
+    //                //ClauseType.AnyOf,
+    //                //ClauseType.NoneOf
+    //            };
+    //    }
+    //}
     protected void filter_FilterOperationVisibility(object sender, FilterControlOperationVisibilityEventArgs e)
     {
         var propertyName = e.PropertyInfo.PropertyName;
@@ -129,7 +129,7 @@ public partial class Controls_Formula_Formula : System.Web.UI.UserControl
         }
         else
         {
-            e.Visible = GlobalAllowedOperations.Contains(e.Operation);
+            //e.Visible = GlobalAllowedOperations.Contains(e.Operation);
         }
     }
 

@@ -1,11 +1,13 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="FormulaDevExpress.ascx.cs" Inherits="Controls_Formula_Formula" %>
-<%--<%@ Register Assembly="DevExpress.Web.ASPxFilterControl.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%--<%@ Register Assembly="DevExpress.Web.ASPxFilterControl.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxHtmlEditor" TagPrefix="dx" %>--%>
-<%@ Register Assembly="DevExpress.Web.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register TagPrefix="dx" Namespace="DevExpress.Data" Assembly="DevExpress.Data.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
+<%@ Register TagPrefix="dx" Namespace="DevExpress.Web.ASPxGantt" Assembly="DevExpress.Web.ASPxGantt.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
 
 
-<%@ Register Assembly="DevExpress.Web.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 <%--<link href="../../CSS/formula/style.css" rel="stylesheet" />--%>
